@@ -1,0 +1,67 @@
+{
+    "main_page":[
+        {
+            "id":1,
+            "name": "bg-main",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600587707/main-bg_a2qtvc.jpg"    },
+        {
+            "id":2,
+            "name": "bg-the-games",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600587703/the-games-bg_violvx.jpg"    
+        },
+        {
+            "id":3,
+            "name": "requirements",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600587706/requirements_hv1tw8.png"    
+        },
+        {
+            "id":4,
+            "name": "features",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600587705/features_lvu0as.jpg"    
+        },
+        {
+            "id":5,
+            "name": "top-scores",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600587703/top-score-bg_w8gdnj.png"    
+        },
+        {
+            "id":6,
+            "name": "top-scores",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600587702/rockpaperstrategy-1600_h8mv2t.jpg"    
+        }
+    ],
+    "top_scores":[
+        {
+            "id":7,
+            "name": "evan-lathi",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600657331/evan-lathi_sagomu.jpg"
+        },
+        {
+            "id":8,
+            "name": "jadda-griffin",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600657331/jada-griffin_lfo62c.jpg"    
+        },
+        {
+            "id":8,
+            "name": "Aaron Williams",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600657331/aaron-williams_m4rxso.jpg"    
+        }
+    ],
+    "play_game":[
+        {
+            "id":1,
+            "name": "stone",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600475113/batu_wb54zj.png"
+        },
+        {
+            "id":2,
+            "name": "scissors",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600475113/gunting_pt9dxa.png"    
+        },
+        {
+            "id":3,
+            "name": "paper",
+            "url": "https://res.cloudinary.com/ds32s8wd4/image/upload/v1600475112/kertas_qwzmkr.png"    
+        }
+    ]
+}

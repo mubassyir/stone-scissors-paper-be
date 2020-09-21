@@ -1,0 +1,19 @@
+{
+  "name": "challange-chapter5",
+  "version": "1.0.0",
+  "description": "Challange chapter 5 Fullstack web development Binar Academy",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "author": "Mubassyir",
+  "license": "ISC"
+}
